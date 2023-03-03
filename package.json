@@ -1,0 +1,24 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.11",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "hookform/resolvers": "*",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-hook-form": "^7.43.4",
+    "zod": "^3.20.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
